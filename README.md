@@ -6,6 +6,6 @@
 
   - Alvarez Gil Luis Miguel
   - Beltran Martinez Wilman Antonio
-  - Fernandez Herran Diana Paola
+  - Fernández Herrán Diana Paola
   - Jimenez Avendano Carlos Enrique
   - Rocha Grajales Francisco Javier
